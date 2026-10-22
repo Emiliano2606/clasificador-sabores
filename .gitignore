@@ -22,3 +22,5 @@ modelos/
 # IDE
 .vscode/
 .idea/
+#imagenes 
+data/imagenes/
