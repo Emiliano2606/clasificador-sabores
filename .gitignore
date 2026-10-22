@@ -11,10 +11,7 @@ env/
 .ipynb_checkpoints/
 
 # Datos y modelos (no versionar artefactos pesados)
-datos/
-modelos/
-*.joblib
-*.pkl
+
 
 # SO
 .DS_Store
