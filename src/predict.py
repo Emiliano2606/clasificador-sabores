@@ -160,3 +160,4 @@ if __name__ == "__main__":
             f"\nOcurrió un error inesperado: "
             f"{type(error).__name__}: {error}"
         )
+#:)  
