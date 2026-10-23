@@ -11,7 +11,11 @@ env/
 .ipynb_checkpoints/
 
 # Datos y modelos (no versionar artefactos pesados)
-
+*.joblib
+*.pkl
+*.pickle
+*.npy
+*.npz
 
 # SO
 .DS_Store
@@ -20,3 +24,8 @@ env/
 .vscode/
 .idea/
 #imagenes 
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.bmp
