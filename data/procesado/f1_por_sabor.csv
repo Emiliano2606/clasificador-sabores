@@ -1,0 +1,16 @@
+Modelo,Sabor,F1
+SVM,dulce,0.5144404332129964
+SVM,salado,0.8436179205409975
+SVM,amargo,0.0
+SVM,acido,0.40603015075376886
+SVM,umami,0.73992673992674
+Random Forest,dulce,0.043993231810490696
+Random Forest,salado,0.8626100267891312
+Random Forest,amargo,0.0
+Random Forest,acido,0.00392156862745098
+Random Forest,umami,0.7689110556940981
+Regresión logística,dulce,0.440174672489083
+Regresión logística,salado,0.7735004476275739
+Regresión logística,amargo,0.10843373493975904
+Regresión logística,acido,0.4038630377524144
+Regresión logística,umami,0.6583649160801299

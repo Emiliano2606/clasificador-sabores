@@ -1,0 +1,6 @@
+modelo,metrica,valor
+Regresión logística,F1 macro,0.4768673617777921
+Regresión logística,F1 micro,0.6011330577246976
+Regresión logística,Precision macro,0.46727404326555966
+Regresión logística,Recall macro,0.4900084061884501
+Regresión logística,Hamming loss,0.3506056527590848

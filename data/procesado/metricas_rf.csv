@@ -1,0 +1,6 @@
+modelo,metrica,valor
+Random Forest,F1 macro,0.3358871765842342
+Random Forest,F1 micro,0.6678519476321318
+Random Forest,Precision macro,0.6067668853404824
+Random Forest,Recall macro,0.4045148429091182
+Random Forest,Hamming loss,0.2765814266487214
